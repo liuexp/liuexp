@@ -3,7 +3,7 @@ body {
     font-family: Georgia, serif;
     font-size: 16px;
     margin: auto;
-    max-width: 1024;
+    max-width: 1280px;
 }
 
 div#header {
@@ -46,6 +46,10 @@ div#footer {
 
 div#header, div#content, div#footer{
     margin: 15px;
+}
+
+div.colorli li{
+    color: #A34D32;
 }
 
 h1 {

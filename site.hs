@@ -44,13 +44,15 @@ main = hakyll $ do
                 >>= relativizeUrls
 -}
 
-    match "index.html" $ do
-        route idRoute
+    --match "index.html" $ do
+        --route idRoute
+    match "index.markdown" $ do
+        route   $ setExtension "html"
         compile $ do
             let indexCtx = field "posts" $ \_ ->
                                 postList $ fmap (take 3) . recentFirst
 
-            getResourceBody
+            pandocCompiler
                 >>= applyAsTemplate indexCtx
                 >>= loadAndApplyTemplate "templates/default.html" postCtx
                 >>= relativizeUrls
