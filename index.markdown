@@ -13,7 +13,8 @@ Research Interests
 -----------------------------
 Theoretical Computer Science and Distributed Systems, currently focusing on algorithms and complexity of approximate counting.
 
-<div class="colorli">
+<div id="pub" class="colorli">
+
 Publications
 -----------------------------
 
@@ -23,7 +24,10 @@ With Pinyan Lu.
 * [A Simple FPTAS for Counting Edge Covers.](http://arxiv.org/abs/1309.6115)
 ___SODA 2014(to appear).___
 With Chengyu Lin and Pinyan Lu.
+
 </div>
+
+<div id="teach">
 
 Teaching
 -----------------------------
@@ -36,3 +40,4 @@ Fall 2012
 ### Project Workshop for Operating System (Nachos)
 [Fall 2013](http://acm.sjtu.edu.cn/wiki/Nachos_2013)
 
+</div>
