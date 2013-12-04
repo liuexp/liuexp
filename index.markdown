@@ -7,9 +7,10 @@ Short Bio
 Hi! I am Jingcheng Liu (刘景铖), a senior undergraduate at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn/),
 studying Computer Science in [ACM Honored Class 2010](http://acm.sjtu.edu.cn/).
 
-Currently I am an intern at Theory Group of Microsoft Research Asia supervised by Dr. [Pinyan Lu](http://research.microsoft.com/en-us/people/pinyanl/).
+Currently I am an Intern at Theory Group of Microsoft Research Asia supervised by Dr. [Pinyan Lu](http://research.microsoft.com/en-us/people/pinyanl/).
 
-Research Interests
+
+Areas of Special Interests
 -----------------------------
 Theoretical Computer Science and Distributed Systems, currently focusing on algorithms and complexity of approximate counting.
 
