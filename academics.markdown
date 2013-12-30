@@ -2,16 +2,13 @@
 title: Academic Stuff
 ---
 
-Talks
------------------------------
-
-### Oct 13, 2013.  [Approximating bounded degree Boolean #CSP](http://math.sjtu.edu.cn/conference/Bannai/2013/talk.php?20131013A)
 
 
 Conference Deadlines
 ----------------------------
 
 ### Upcoming
+* ICALP 2014: February 14, 2014.
 
 
 ### Past
