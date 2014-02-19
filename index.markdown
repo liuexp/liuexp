@@ -31,6 +31,9 @@ Publications
 -----------------------------
 [My DBLP.](http://www.informatik.uni-trier.de/~ley/pers/hy/l/Liu:Jingcheng.html)
 
+* [The Complexity of Ferromagnetic Two-spin Systems with External Fields.](http://arxiv.org/abs/1402.4346) <br/>
+_Submitted._ With Pinyan Lu and Chihao Zhang. <br/>
+
 * [FPTAS for Counting Monotone CNF.](http://arxiv.org/abs/1311.3728) <br/>
 _Submitted._ With Pinyan Lu. <br/>
 
