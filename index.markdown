@@ -31,7 +31,7 @@ Publications and Preprints
 
 * [FPTAS for Counting Monotone CNF](http://dx.doi.org/10.1137/1.9781611973730.101) &nbsp;
 <span class='alignright'> [[arxiv]](http://arxiv.org/abs/1311.3728) [[slides]](http://www.cs.berkeley.edu/~liuexp/soda15.pdf) </span><br/>
- With [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan/). <br/>
+ with [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan/). <br/>
  **SODA 2015.**
 
 * [The Complexity of Ferromagnetic Two-spin Systems with External Fields](http://dx.doi.org/10.4230/LIPIcs.APPROX-RANDOM.2014.843) &nbsp;
