@@ -1,4 +1,6 @@
+--TODO: use the compiler for posts to generate research summary from LaTeX.
 --------------------------------------------------------------------------------
+{-# OPTIONS_GHC -O2 #-}
 {-# LANGUAGE OverloadedStrings #-}
 --import           Control.Applicative ((<$>))
 import           Data.Monoid         (mappend)
@@ -72,7 +74,7 @@ postCtx =
 
 defaultContext' :: Context String
 defaultContext' =
-		modificationTimeField "mtime" "%B %e, %Y %l:%M %p" `mappend` defaultContext
+    modificationTimeField "mtime" "%B %e, %Y %l:%M %p" `mappend` defaultContext
 
 
 --------------------------------------------------------------------------------

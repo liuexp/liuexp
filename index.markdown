@@ -4,50 +4,55 @@ title: Home
 
 Short Bio
 -----------------------------
-Hi! I am Jingcheng Liu (刘景铖), a senior undergraduate at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn/),
-studying Computer Science in [ACM Honored Class 2010](http://acm.sjtu.edu.cn/).
+I am a third year PhD candidate in the [theory group](http://theory.cs.berkeley.edu/) at UC Berkeley. My advisor is Prof. [Alistair Sinclair](http://www.cs.berkeley.edu/~sinclair/).
 
-I was an Intern at Theory Group of Microsoft Research Asia supervised by Dr. [Pinyan Lu](http://research.microsoft.com/en-us/people/pinyanl/).
-Thanks to many of my dear friends, I will continue PhD study at Berkeley starting 2014 Fall.
+Before coming to Berkeley, I did my undergraduate studies in Computer Science, in the [ACM Honored Class 2010](http://acm.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn/).
 
-
-Areas of Special Interests
------------------------------
-Theoretical Computer Science and Distributed Systems, currently focusing on algorithms and complexity of approximate counting.
-
-<div id="teach" class="colorli">
-
-Teaching
------------------------------
-
-* Principle and Practice of Computer Algorithms (PPCA). [Summer 2012](http://acm.sjtu.edu.cn/ppca/wiki/Principle_and_Practice_of_Computer_Algorithms_(Summer_2012)) [Summer 2013](http://acm.sjtu.edu.cn/ppca/wiki/Principle_and_Practice_of_Computer_Algorithms_(Summer_2013))
-* Set Theory & Mathematical Logic. Fall 2012  Spring 2014
-* Project Workshop for Operating System (Nachos). [Fall 2013](http://acm.sjtu.edu.cn/wiki/Nachos_2013)
-
-</div>
 
 <div id="pub">
 
-Undergraduate Publications
+Publications and Preprints
 -----------------------------
-[My DBLP.](http://www.informatik.uni-trier.de/~ley/pers/hy/l/Liu:Jingcheng.html)
+[DBLP](http://dblp.uni-trier.de/pers/hd/l/Liu_0001:Jingcheng), 
+[Scholar.](https://scholar.google.com/citations?user=x05pAVUAAAAJ&hl=en)
 
-* [The Complexity of Ferromagnetic Two-spin Systems with External Fields.](http://arxiv.org/abs/1402.4346) <br/>
-_To appear in RANDOM 2014._ With Pinyan Lu and Chihao Zhang. <br/>
+* [Uniform Sampling through the Lovász Local Lemma](https://arxiv.org/abs/1611.01647) <br/>
+ With [Heng Guo](http://pages.cs.wisc.edu/~hguo/) and [Mark Jerrum](http://www.maths.qmul.ac.uk/~mj/). <br/>
+ **STOC 2017.**
 
-* [FPTAS for Counting Monotone CNF.](http://arxiv.org/abs/1311.3728) <br/>
-_Submitted._ With Pinyan Lu. <br/>
+* [Decentralized Anonymous Micropayments](http://eprint.iacr.org/2016/1033.pdf) <br/>
+ With [Alessandro Chiesa](https://people.eecs.berkeley.edu/~alexch/), [Matthew Green](https://isi.jhu.edu/~mgreen/), [Peihan Miao](https://people.eecs.berkeley.edu/~peihan/), [Ian Miers](http://cs.jhu.edu/~imiers/), and [Pratyush Mishra](http://people.eecs.berkeley.edu/~pratyushmishra/). <br/>
+ **EUROCRYPT 2017.**
 
-* [A Simple FPTAS for Counting Edge Covers.](http://dx.doi.org/10.1137/1.9781611973402.25) &nbsp; [(arxiv version)](http://arxiv.org/abs/1309.6115) <br/>
-_In Proceedings of SODA, pages 341-348, 2014._ With Chengyu Lin and Pinyan Lu. <br/>
+* [FPTAS for #BIS with Degree Bounds on One Side.](http://dx.doi.org/10.1145/2746539.2746598) &nbsp;
+<span class='alignright'>[[arxiv]](http://arxiv.org/abs/1412.0073)  [[slides]](http://www.cs.berkeley.edu/~liuexp/stoc15.pdf)</span><br/>
+ With [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan/). <br/>
+ **STOC 2015.**
+
+* [FPTAS for Counting Monotone CNF.](http://dx.doi.org/10.1137/1.9781611973730.101) &nbsp;
+<span class='alignright'> [[arxiv]](http://arxiv.org/abs/1311.3728) [[slides]](http://www.cs.berkeley.edu/~liuexp/soda15.pdf) </span><br/>
+ With [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan/). <br/>
+ **SODA 2015.**
+
+* [The Complexity of Ferromagnetic Two-spin Systems with External Fields.](http://dx.doi.org/10.4230/LIPIcs.APPROX-RANDOM.2014.843) &nbsp;
+<span class='alignright'> [[arxiv]](http://arxiv.org/abs/1402.4346) </span><br/>
+ With [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan/) and [Chihao Zhang](http://basics.sjtu.edu.cn/~chzhang/). <br/>
+ **RANDOM 2014.**
+
+* [FPTAS for Counting Weighted Edge Covers.](http://dx.doi.org/10.1007/978-3-662-44777-2_54) <br/>
+ With [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan/) and [Chihao Zhang](http://basics.sjtu.edu.cn/~chzhang/). <br/>
+ **ESA 2014.**
+
+* [A Simple FPTAS for Counting Edge Covers.](http://dx.doi.org/10.1137/1.9781611973402.25) &nbsp; 
+<span class='alignright'>[[arxiv]](http://arxiv.org/abs/1309.6115) &nbsp; [[slides]](https://github.com/liuexp/counting-edge-cover/blob/proceeding/talk/soda14.pdf?raw=true)</span><br/>
+ With Chengyu Lin and [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan/). <br/>
+ **SODA 2014.**
 
 </div>
 
-Talks
+Contact
 -----------------------------
-
-### Jan. 5, 2014.   [A Simple FPTAS for Counting Edge Covers](https://github.com/liuexp/counting-edge-cover/blob/proceeding/talk/soda14.pdf?raw=true), at SODA 2014, Portland, OR.
-
-### Dec. 26, 2013.  [Bridges: Inference and Monte Carlo Method](/pdf/mcmc.pdf), in TCS reading group, SJTU.
-
-### Oct. 13, 2013.  [Approximating bounded degree Boolean #CSP](http://math.sjtu.edu.cn/conference/Bannai/2013/talk.php?20131013A)
+* Email: liu<a href="http://www.google.com/recaptcha/mailhide/d?k=017yXr3BhAhX8-QPczD__9yw==&amp;c=lgGp06lUfySFfTW_T5sf-Zl7iOm_SlMlDFe4ziuHvzk=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\075017yXr3BhAhX8-QPczD__9yw\75\75\46c\75lgGp06lUfySFfTW_T5sf-Zl7iOm_SlMlDFe4ziuHvzk\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">...</a>@berkeley.edu 
+* Github: [@Liuexp](http://github.com/liuexp)
+* Skype: Liuexp.
+* Office: 645 Soda Hall, University of California, Berkeley, CA 94720
