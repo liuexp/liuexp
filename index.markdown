@@ -17,35 +17,35 @@ Publications and Preprints
 [Scholar.](https://scholar.google.com/citations?user=x05pAVUAAAAJ&hl=en)
 
 * [Uniform Sampling through the Lovász Local Lemma](https://arxiv.org/abs/1611.01647) <br/>
- With [Heng Guo](http://pages.cs.wisc.edu/~hguo/) and [Mark Jerrum](http://www.maths.qmul.ac.uk/~mj/). <br/>
+ with [Heng Guo](http://pages.cs.wisc.edu/~hguo/) and [Mark Jerrum](http://www.maths.qmul.ac.uk/~mj/). <br/>
  **STOC 2017.**
 
 * [Decentralized Anonymous Micropayments](http://eprint.iacr.org/2016/1033.pdf) <br/>
- With [Alessandro Chiesa](https://people.eecs.berkeley.edu/~alexch/), [Matthew Green](https://isi.jhu.edu/~mgreen/), [Peihan Miao](https://people.eecs.berkeley.edu/~peihan/), [Ian Miers](http://cs.jhu.edu/~imiers/), and [Pratyush Mishra](http://people.eecs.berkeley.edu/~pratyushmishra/). <br/>
+ with [Alessandro Chiesa](https://people.eecs.berkeley.edu/~alexch/), [Matthew Green](https://isi.jhu.edu/~mgreen/), [Peihan Miao](https://people.eecs.berkeley.edu/~peihan/), [Ian Miers](http://cs.jhu.edu/~imiers/), and [Pratyush Mishra](http://people.eecs.berkeley.edu/~pratyushmishra/). <br/>
  **EUROCRYPT 2017.**
 
-* [FPTAS for #BIS with Degree Bounds on One Side.](http://dx.doi.org/10.1145/2746539.2746598) &nbsp;
+* [FPTAS for #BIS with Degree Bounds on One Side](http://dx.doi.org/10.1145/2746539.2746598) &nbsp;
 <span class='alignright'>[[arxiv]](http://arxiv.org/abs/1412.0073)  [[slides]](http://www.cs.berkeley.edu/~liuexp/stoc15.pdf)</span><br/>
- With [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan/). <br/>
+ with [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan/). <br/>
  **STOC 2015.**
 
-* [FPTAS for Counting Monotone CNF.](http://dx.doi.org/10.1137/1.9781611973730.101) &nbsp;
+* [FPTAS for Counting Monotone CNF](http://dx.doi.org/10.1137/1.9781611973730.101) &nbsp;
 <span class='alignright'> [[arxiv]](http://arxiv.org/abs/1311.3728) [[slides]](http://www.cs.berkeley.edu/~liuexp/soda15.pdf) </span><br/>
  With [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan/). <br/>
  **SODA 2015.**
 
-* [The Complexity of Ferromagnetic Two-spin Systems with External Fields.](http://dx.doi.org/10.4230/LIPIcs.APPROX-RANDOM.2014.843) &nbsp;
+* [The Complexity of Ferromagnetic Two-spin Systems with External Fields](http://dx.doi.org/10.4230/LIPIcs.APPROX-RANDOM.2014.843) &nbsp;
 <span class='alignright'> [[arxiv]](http://arxiv.org/abs/1402.4346) </span><br/>
- With [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan/) and [Chihao Zhang](http://basics.sjtu.edu.cn/~chzhang/). <br/>
+ with [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan/) and [Chihao Zhang](http://basics.sjtu.edu.cn/~chzhang/). <br/>
  **RANDOM 2014.**
 
-* [FPTAS for Counting Weighted Edge Covers.](http://dx.doi.org/10.1007/978-3-662-44777-2_54) <br/>
- With [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan/) and [Chihao Zhang](http://basics.sjtu.edu.cn/~chzhang/). <br/>
+* [FPTAS for Counting Weighted Edge Covers](http://dx.doi.org/10.1007/978-3-662-44777-2_54) <br/>
+ with [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan/) and [Chihao Zhang](http://basics.sjtu.edu.cn/~chzhang/). <br/>
  **ESA 2014.**
 
 * [A Simple FPTAS for Counting Edge Covers.](http://dx.doi.org/10.1137/1.9781611973402.25) &nbsp; 
 <span class='alignright'>[[arxiv]](http://arxiv.org/abs/1309.6115) &nbsp; [[slides]](https://github.com/liuexp/counting-edge-cover/blob/proceeding/talk/soda14.pdf?raw=true)</span><br/>
- With Chengyu Lin and [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan/). <br/>
+ with Chengyu Lin and [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan/). <br/>
  **SODA 2014.**
 
 </div>
