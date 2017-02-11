@@ -44,7 +44,7 @@ Publications and Preprints
  **ESA 2014.**
 
 * [A Simple FPTAS for Counting Edge Covers.](http://dx.doi.org/10.1137/1.9781611973402.25) &nbsp; 
-<span class='alignright'>[[arxiv]](http://arxiv.org/abs/1309.6115) &nbsp; [[slides]](https://github.com/liuexp/counting-edge-cover/blob/proceeding/talk/soda14.pdf?raw=true)</span><br/>
+<span class='alignright'>[[arxiv]](http://arxiv.org/abs/1309.6115) [[slides]](https://github.com/liuexp/counting-edge-cover/blob/proceeding/talk/soda14.pdf?raw=true)</span><br/>
  with Chengyu Lin and [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan/). <br/>
  **SODA 2014.**
 
