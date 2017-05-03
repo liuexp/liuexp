@@ -16,6 +16,10 @@ Publications and Preprints
 [DBLP](http://dblp.uni-trier.de/pers/hd/l/Liu_0001:Jingcheng), 
 [Scholar.](https://scholar.google.com/citations?user=x05pAVUAAAAJ&hl=en)
 
+* [The Ising Partition Function: Zeros and Deterministic Approximation](https://arxiv.org/abs/1611.01647) <br/>
+ with [Alistair Sinclair](https://people.eecs.berkeley.edu/~sinclair/) and [Piyush Srivastava](http://www.its.caltech.edu/~piyushs/). <br/>
+ Manuscript.
+
 * [Uniform Sampling through the Lovász Local Lemma](https://arxiv.org/abs/1611.01647) <br/>
  with [Heng Guo](http://pages.cs.wisc.edu/~hguo/) and [Mark Jerrum](http://www.maths.qmul.ac.uk/~mj/). <br/>
  **STOC 2017.**
