@@ -16,15 +16,18 @@ Publications and Preprints
 [DBLP](http://dblp.uni-trier.de/pers/hd/l/Liu_0001:Jingcheng), 
 [Scholar.](https://scholar.google.com/citations?user=x05pAVUAAAAJ&hl=en)
 
-* [The Ising Partition Function: Zeros and Deterministic Approximation](https://arxiv.org/abs/1611.01647) <br/>
- with [Alistair Sinclair](https://people.eecs.berkeley.edu/~sinclair/) and [Piyush Srivastava](http://www.its.caltech.edu/~piyushs/). <br/>
- Manuscript.
+* [The Ising Partition Function: Zeros and Deterministic Approximation](https://arxiv.org/abs/1704.06493) &nbsp;
+<span class='alignright'> [[slides]](http://www.cs.berkeley.edu/~liuexp/ising-short.pdf) </span><br/>
+ with [Alistair Sinclair](https://people.eecs.berkeley.edu/~sinclair/) and [Piyush Srivastava](http://www.tifr.res.in/~piyush.srivastava/). <br/>
+ **FOCS 2017.**
 
-* [Uniform Sampling through the Lovász Local Lemma](https://arxiv.org/abs/1611.01647) <br/>
+* [Uniform Sampling through the Lovász Local Lemma](http://doi.acm.org/10.1145/3055399.3055410) &nbsp;
+<span class='alignright'>[[arxiv]](https://arxiv.org/abs/1611.01647) </span><br/>
  with [Heng Guo](http://pages.cs.wisc.edu/~hguo/) and [Mark Jerrum](http://www.maths.qmul.ac.uk/~mj/). <br/>
  **STOC 2017.**
 
-* [Decentralized Anonymous Micropayments](http://eprint.iacr.org/2016/1033.pdf) <br/>
+* [Decentralized Anonymous Micropayments](https://doi.org/10.1007/978-3-319-56614-6_21) &nbsp;
+<span class='alignright'>[[ePrint]](http://eprint.iacr.org/2016/1033.pdf)</span><br/>
  with [Alessandro Chiesa](https://people.eecs.berkeley.edu/~alexch/), [Matthew Green](https://isi.jhu.edu/~mgreen/), [Peihan Miao](https://people.eecs.berkeley.edu/~peihan/), [Ian Miers](http://cs.jhu.edu/~imiers/), and [Pratyush Mishra](http://people.eecs.berkeley.edu/~pratyushmishra/). <br/>
  **EUROCRYPT 2017.**
 
@@ -47,7 +50,7 @@ Publications and Preprints
  with [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan/) and [Chihao Zhang](http://basics.sjtu.edu.cn/~chzhang/). <br/>
  **ESA 2014.**
 
-* [A Simple FPTAS for Counting Edge Covers.](http://dx.doi.org/10.1137/1.9781611973402.25) &nbsp; 
+* [A Simple FPTAS for Counting Edge Covers](http://dx.doi.org/10.1137/1.9781611973402.25) &nbsp; 
 <span class='alignright'>[[arxiv]](http://arxiv.org/abs/1309.6115) [[slides]](https://github.com/liuexp/counting-edge-cover/blob/proceeding/talk/soda14.pdf?raw=true)</span><br/>
  with Chengyu Lin and [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan/). <br/>
  **SODA 2014.**
