@@ -2,7 +2,7 @@
 title: Projects
 ---
 
-Past Projects
+Past Course Projects
 --------------------
 * [Scheme Interpreter](https://github.com/liuexp/CodePlayground/tree/master/haskell/schemer)
 * [Mail Client in Haskell](https://github.com/liuexp/haskell-mailclient)
