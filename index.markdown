@@ -8,7 +8,6 @@ I am a fourth year PhD candidate in the [theory group](http://theory.cs.berkeley
 
 Before coming to Berkeley, I did my undergraduate studies in Computer Science, in the [ACM Honored Class 2010](http://acm.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn/).
 
-
 <div id="pub">
 
 Publications and Preprints
@@ -57,18 +56,20 @@ Publications and Preprints
 
 </div>
 
+
 <div id="teach-ucb" class="colorli">
 
-Teaching (UC Berkeley)
+Teaching @ UC Berkeley
 -----------------------------
 
 * CS174. Combinatorics and Discrete Probability. Spring 2018.
 * CS170. Efficient Algorithms and Intractable Problems. Fall 2017.
 
 </div>
+
 <div id="teach-sjtu" class="colorli">
 
-Teaching (SJTU)
+Teaching @ SJTU
 -----------------------------
 
 * Principle and Practice of Computer Algorithms (PPCA). [Summer 2012](http://acm.sjtu.edu.cn/ppca/wiki/Principle_and_Practice_of_Computer_Algorithms_(Summer_2012)) [Summer 2013](http://acm.sjtu.edu.cn/ppca/wiki/Principle_and_Practice_of_Computer_Algorithms_(Summer_2013))
