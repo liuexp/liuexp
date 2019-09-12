@@ -12,10 +12,9 @@ My PhD thesis focuses on the interplay between phase transitions in statistical 
 an online copy is available [here](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-110.html).
 Prior to that, I received my bachelor's degree in the [ACM Honor Class 2010](http://acm.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn/).
 
-<div id="pub" class="separateli">
-
 Papers
------------------------------
+=======
+<div id="pub" class="separateli">
 [DBLP](http://dblp.uni-trier.de/pers/hd/l/Liu_0001:Jingcheng), 
 [Scholar.](https://scholar.google.com/citations?user=x05pAVUAAAAJ&hl=en)
 
@@ -75,9 +74,10 @@ Papers
 
 </div>
 
+
 <div id="teach-ucb" class="colorli">
 
-Teaching (UC Berkeley)
+Teaching @ UC Berkeley
 -----------------------------
 
 * CS 70. Discrete Mathematics and Probability Theory. Fall 2018.
@@ -85,9 +85,10 @@ Teaching (UC Berkeley)
 * CS170. Efficient Algorithms and Intractable Problems. Fall 2017.
 
 </div>
+
 <div id="teach-sjtu" class="colorli">
 
-Teaching (SJTU)
+Teaching @ SJTU
 -----------------------------
 
 * Principle and Practice of Computer Algorithms (PPCA). [Summer 2012](http://acm.sjtu.edu.cn/ppca/wiki/Principle_and_Practice_of_Computer_Algorithms_(Summer_2012)) [Summer 2013](http://acm.sjtu.edu.cn/ppca/wiki/Principle_and_Practice_of_Computer_Algorithms_(Summer_2013))
