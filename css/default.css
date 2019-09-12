@@ -47,6 +47,10 @@ div#header, div#content, div#footer{
     margin: 15px;
 }
 
+div.separateli li{
+    border-bottom: 1px solid #7f7f7f4a;
+}
+
 div.colorli li{
     color: #A34D32;
 }
