@@ -2,12 +2,16 @@
 title: Home
 ---
 
+<span class="alignright"> 
+    <img src="./images/me.jpg" width="140px">
+</span>
+
 Short Bio
 -----------------------------
 I am a Wally Baer and Jeri Weiss Postdoctoral Scholar in Computing and Mathematical Sciences at Caltech, hosted by [Leonard J. Schulman](http://users.cms.caltech.edu/~schulman/).
 I am broadly interested in theoretical computer science.
 
-I received my PhD from UC Berkeley, where I was fortunate to be supervised by Professor [Alistair Sinclair](http://www.cs.berkeley.edu/~sinclair/). 
+I received my PhD from UC Berkeley in the summer of 2019, where I was fortunate to be supervised by Professor [Alistair Sinclair](http://www.cs.berkeley.edu/~sinclair/). 
 My PhD thesis focuses on the interplay between phase transitions in statistical physics, locations of zeros of graph polynomials, and algorithmic questions such as the tractable boundaries of approximate counting, sampling and inference;
 an online copy is available [here](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-110.html).
 Prior to that, I received my bachelor's degree in the [ACM Honor Class 2010](http://acm.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://www.sjtu.edu.cn/).
@@ -17,6 +21,11 @@ Papers
 <div id="pub" class="separateli">
 [DBLP](http://dblp.uni-trier.de/pers/hd/l/Liu_0001:Jingcheng), 
 [Scholar.](https://scholar.google.com/citations?user=x05pAVUAAAAJ&hl=en)
+
+* [Zeros of ferromagnetic 2-spin systems](https://arxiv.org/abs/1907.06156) &nbsp;
+<br/>
+ with [Heng Guo](http://homepages.inf.ed.ac.uk/hguo/) and [Pinyan Lu](http://itcs.shufe.edu.cn/pinyan/). <br/>
+ **SODA 2020.**
 
 * [A Deterministic Algorithm for Counting Colorings with 2∆ Colors](https://arxiv.org/abs/1906.01228) &nbsp;
 <span class='alignright'>[[slides]](/static/potts-coloring.pdf) </span><br/>
@@ -113,7 +122,7 @@ Dissertation
 
 Contact
 -----------------------------
-* Email: liu<a href="http://www.google.com/recaptcha/mailhide/d?k=017yXr3BhAhX8-QPczD__9yw==&amp;c=lgGp06lUfySFfTW_T5sf-Zl7iOm_SlMlDFe4ziuHvzk=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\075017yXr3BhAhX8-QPczD__9yw\75\75\46c\75lgGp06lUfySFfTW_T5sf-Zl7iOm_SlMlDFe4ziuHvzk\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">...</a>@berkeley.edu 
+* Email: liuexp (at) caltech (dot) edu 
 * Github: [\@Liuexp](http://github.com/liuexp)
 * Skype: Liuexp.
 * Office: Annenberg 202, Caltech, 1200 E. California Blvd., MC 305-16 
